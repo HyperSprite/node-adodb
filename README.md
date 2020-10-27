@@ -1,5 +1,13 @@
 # node-adodb
 
+> This is a fork of node-adodb so it can be installed on Darwin without complaining. It can't be used on Darwin.
+
+install `yarn add @hypersprite/node-adodb`
+
+Text below is the original readme.
+
+---
+
 > 一个用 Node.js 实现的 windows 上的 ADODB 协议。
 >
 > [![NPM Version][npm-image]][npm-url]

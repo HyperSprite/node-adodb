@@ -1,5 +1,5 @@
 {
-  "name": "node-adodb",
+  "name": "@hypersprite/node-adodb",
   "version": "5.0.3",
   "main": "index.js",
   "license": "MIT",
@@ -11,24 +11,21 @@
     "node-adodb",
     "microsoft adodb"
   ],
-  "homepage": "https://github.com/nuintun/node-adodb#readme",
+  "homepage": "https://github.com/hypersprite/node-adodb#readme",
   "description": "A Node.js JavaScript Client implementing the ADODB protocol.",
   "author": {
     "name": "nuintun",
     "email": "nuintun@qq.com"
   },
   "bugs": {
-    "url": "https://github.com/nuintun/node-adodb/issues"
+    "url": "https://github.com/hypersprite/node-adodb/issues"
   },
-  "os": [
-    "win32"
-  ],
   "engines": {
     "node": ">=6.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuintun/node-adodb.git"
+    "url": "git+https://github.com/hypersprite/node-adodb.git"
   },
   "dependencies": {
     "arch": "^2.1.1",
